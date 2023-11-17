@@ -1,4 +1,5 @@
 {
+  "homepage": "https://abet-v.github.io/abet-v",
   "name": "abet-v",
   "version": "0.1.0",
   "private": true,
@@ -49,5 +50,4 @@
     "@types/react-dom": "^18.0.0",
     "typescript": "^4.7.4"
   },
-  "homepage": "https://abet-v.github.io/abet-v"
 }
