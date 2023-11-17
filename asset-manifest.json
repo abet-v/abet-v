@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/abet-v/static/js/main.cf2c7fbb.js",
+    "main.js": "/abet-v/static/js/main.11306182.js",
     "static/media/home-article.png": "/abet-v/static/media/home-article.64a2f430b7a77662910e.png",
     "static/media/article-page-example.png": "/abet-v/static/media/article-page-example.70d6bd57ede0ada106fa.png",
     "static/media/hero.png": "/abet-v/static/media/hero.5e0a7345cf72196b81c5.png",
@@ -9,9 +9,9 @@
     "static/media/data-visualisation.png": "/abet-v/static/media/data-visualisation.c147fb3b112f51f096a2.png",
     "static/media/kubernetes.png": "/abet-v/static/media/kubernetes.52ea2430dfac2c2b029c.png",
     "index.html": "/abet-v/index.html",
-    "main.cf2c7fbb.js.map": "/abet-v/static/js/main.cf2c7fbb.js.map"
+    "main.11306182.js.map": "/abet-v/static/js/main.11306182.js.map"
   },
   "entrypoints": [
-    "static/js/main.cf2c7fbb.js"
+    "static/js/main.11306182.js"
   ]
 }
