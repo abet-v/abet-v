@@ -8,26 +8,25 @@ import { FourOhFour } from "../pages/FourOFour";
 import { ThemeProvider } from "../theme";
 
 export function App() {
-	const route = useRoute();
-	return (
-		<ThemeProvider>
-			<GlTemplate
-				header={<Header />}
-				headerOptions={{
-					"position": "sticky",
-					"isRetracted": "smart",
-				}}
-				footer={<Footer />}
-				body={
-					(()=>{
-						switch(route.name){
-							case "home": return <Home />;
-							case "pageExample": return <PageExample />;
-							default : return <FourOhFour />;
-						}
-					})()
-				}
-			/>
-		</ThemeProvider>
-	);
+  const route = useRoute();
+  return (
+    <ThemeProvider>
+      <GlTemplate
+        header={<Header />}
+        headerOptions={{
+          position: "sticky",
+          isRetracted: "smart",
+        }}
+        footer={<Footer />}
+        body={(() => {
+          switch (route.name) {
+            case "home":
+              return <Home />;
+            default:
+              return <FourOhFour />;
+          }
+        })()}
+      />
+    </ThemeProvider>
+  );
 }

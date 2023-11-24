@@ -17,7 +17,6 @@ export const Home = memo(() => {
   const { t } = useTranslation({ Home });
   return (
     <>
-      <h1>HELLOOO</h1>
       <GlHero
         title={t("heroTitle")}
         subTitle={t("heroSubtitle")}
@@ -32,10 +31,6 @@ export const Home = memo(() => {
       <GlArticle
         title={t("articleTitle")}
         body={t("articleBody")}
-        buttonLabel={t("articleButtonLabel")}
-        buttonLink={{
-          href: "https://example.com",
-        }}
         illustration={{
           type: "image",
           src: articlePng,
@@ -47,10 +42,10 @@ export const Home = memo(() => {
 
       <GlCards>
         <GlLogoCard
-          title={t("card1Title")}
+          title={"Github"}
           paragraph={t("card1Paragraph")}
-          buttonLabel="Button Label"
-          iconUrls={[tchapIcon, githubIcon]}
+          buttonLabel="repos"
+          iconUrls={[githubIcon]}
         />
         <GlLogoCard
           title={t("card2Title")}
@@ -58,7 +53,12 @@ export const Home = memo(() => {
           buttonLabel="Button Label"
           iconUrls={[rocketIcon]}
         />
-
+        <GlLogoCard
+          title={t("card1Title")}
+          paragraph={t("card1Paragraph")}
+          buttonLabel="Button Label"
+          iconUrls={[githubIcon]}
+        />
         <GlLogoCard
           title={t("card3Title")}
           paragraph={t("card3Paragraph")}

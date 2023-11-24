@@ -4,7 +4,7 @@ import {makeThisModuleAnExecutableRouteLister} from "github-pages-plugin-for-typ
 
 
 export const routeDefs = {
-	"home": defineRoute("/abet-v.git"),
+	"home": defineRoute("/abet-v"),
 	"pageExample": defineRoute("/page-example"),
 };
 
