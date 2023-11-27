@@ -20,7 +20,9 @@
     />
   </a>
 </div>
-Passionate about full-stack development since my early years (learn PHP/HTML at 11yo - lesiteduzero <3), my professional goal is to design innovative and high-performing web applications using the latest technologies and methodologies. My experience enables me to ensure high-quality execution while working collaboratively within a team.
+
+<p> Passionate about full-stack development since my early years (learn PHP/HTML at 11yo - lesiteduzero <3), my professional goal is to design innovative and high-performing web applications using the latest technologies and methodologies. My experience enables me to ensure high-quality execution while working collaboratively within a team.
+</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abet-v&show_icons=true&locale=en&layout=compact" alt="abet-v" /></p>
