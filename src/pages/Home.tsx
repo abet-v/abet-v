@@ -11,7 +11,6 @@ import drawioIcon from "assets/icons/drawio.png";
 import githubIcon from "assets/icons/github.png";
 import plusIcon from "assets/icons/plus.png";
 import rocketIcon from "assets/icons/rocket-chat.png";
-import tchapIcon from "assets/icons/tchap.png";
 
 export const Home = memo(() => {
   const { t } = useTranslation({ Home });
