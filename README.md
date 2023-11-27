@@ -3,26 +3,25 @@
 <h1 align="center">Hi 👋, I'm Vincent Abet</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abet-v&label=Profile%20views&color=0e75b6&style=flat" alt="abet-v" /> </p>
 
-<div>
-    <div width="50%">
-        - 🔭 I’m currently working on ...
-        - 🌱 I’m currently learning ...
-        - 👯 I’m looking to collaborate on ...
-        - 🤔 I’m looking for help with ...
-        - 💬 Ask me about ...
-        - 📫 How to reach me: ...
-        - 😄 Pronouns: ...
-        - ⚡ Fun fact: ...
-    </div>
-    <div width="50%">
-        <a href="https://app.daily.dev/abetv">
-            <img src="https://api.daily.dev/devcards/17e3feab6e1e401ebc792f130ebab995.png?r=7uc" width="400" alt="Vincent Abet's Dev Card"/>
-        </a>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=abet-v&show_icons=true&locale=en" alt="abet-v" />
-    </div>
+<div align="left">
+  <a href="https://www.linkedin.com/in/vincent-abet-39579982/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=abet-v&label=Profile%20views&color=0e75b6&style=flat" alt="abet-v" />
+  <a href="https://app.daily.dev/abetv" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/17e3feab6e1e401ebc792f130ebab995.png?r=7uc"
+    />
+  </a>
 </div>
+
+
 <!--
 **abet-v/abet-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
