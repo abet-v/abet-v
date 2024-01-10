@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vincent Abet</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,django,git,graphql,idea,linux,nodejs,php,py,symfony,ts,vscode,bun,docker,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,django,react,git,graphql,idea,linux,nodejs,php,py,symfony,ts,vscode,bun,docker,jenkins)](https://skillicons.dev)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/vincent-abet-39579982/">
