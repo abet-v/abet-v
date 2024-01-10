@@ -3,7 +3,19 @@
 <h1 align="center">Hi 👋, I'm Vincent Abet</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,django,react,git,graphql,idea,linux,nodejs,php,py,symfony,ts,vscode,bun,docker,jenkins)](https://skillicons.dev)
+<h2>Front</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,vscode,bun)](https://skillicons.dev)
+
+<h2>Back</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=django,graphql,idea,nodejs,php,py,symfony)](https://skillicons.dev)
+
+
+<h3>Ops</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=git,linux,docker,jenkins)](https://skillicons.dev)
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/vincent-abet-39579982/">
