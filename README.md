@@ -12,9 +12,10 @@
 [![My Skills](https://skillicons.dev/icons?i=django,graphql,idea,nodejs,php,py,symfony)](https://skillicons.dev)
 
 
-<h3>Ops</h3>
+<h2>Ops</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=git,linux,docker,jenkins)](https://skillicons.dev)
+
 
 
 <div align="left">
