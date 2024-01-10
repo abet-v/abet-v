@@ -14,7 +14,7 @@
 
 <h2>Ops</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,linux,docker,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,docker,jenkins,bash,aws)](https://skillicons.dev)
 
 
 
