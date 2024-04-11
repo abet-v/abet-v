@@ -26,13 +26,7 @@
     />
   </a>
   <img src="https://komarev.com/ghpvc/?username=abet-v&label=Profile%20views&color=0e75b6&style=flat" alt="abet-v" />
-  <a href="https://app.daily.dev/abetv" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://api.daily.dev/devcards/17e3feab6e1e401ebc792f130ebab995.png?r=7uc"
-    />
-  </a>
+  <a href="https://app.daily.dev/abetv"><img src="https://api.daily.dev/devcards/v2/hZtKahCGQi09X2Rwylm27.png?r=4fu&type=default" width="356" alt="Vincent Abet's Dev Card"/></a>
 </div>
 
 <span> 
