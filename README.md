@@ -39,3 +39,9 @@ Passionate about full-stack development since my early years (learn PHP/HTML at 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abet-v&show_icons=true&locale=en" alt="abet-v" /></p>
 
 
+<a href="https://gitmoji.dev">
+  <img
+    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
+    alt="Gitmoji"
+  />
+</a>
