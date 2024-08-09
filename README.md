@@ -19,13 +19,6 @@
 
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/vincent-abet-39579982/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=abet-v&label=Profile%20views&color=0e75b6&style=flat" alt="abet-v" />
   <a href="https://app.daily.dev/abetv"><img src="https://api.daily.dev/devcards/v2/hZtKahCGQi09X2Rwylm27.png?r=4fu&type=default" width="356" alt="Vincent Abet's Dev Card"/></a>
 </div>
 
@@ -38,6 +31,13 @@ Passionate about full-stack development since my early years (learn PHP/HTML at 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abet-v&show_icons=true&locale=en" alt="abet-v" /></p>
 
+  <a href="https://www.linkedin.com/in/vincent-abet-39579982/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=abet-v&label=Profile%20views&color=0e75b6&style=flat" alt="abet-v" />
 
 <a href="https://gitmoji.dev">
   <img
